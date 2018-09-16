@@ -20,6 +20,9 @@
 }
 .navbar + .jumbotron {
   margin-top: -20px;
+  position: relative;
+  top: 20px;
+  left:20px;
 }
 .jumbotron .lang-logo {
   display: block;
